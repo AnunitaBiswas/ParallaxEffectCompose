@@ -24,11 +24,9 @@ import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.parallaxeffectcompose.ui.theme.ParallaxEffectComposeTheme
 import com.example.parallaxeffectcompose.ui.theme.Purple40
-import com.example.parallaxeffectcompose.ui.theme.Purple80
 import java.lang.Float.min
 
 class MainActivity : ComponentActivity() {
